@@ -1,0 +1,9 @@
+# BEGIN_KITTY_THEME
+# Bbthemetest
+include current-theme.conf
+# END_KITTY_THEME
+
+# Font
+font_family "JetBrainsMono Nerd Font"
+font_size 14
+
